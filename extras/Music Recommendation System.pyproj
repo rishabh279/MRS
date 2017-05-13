@@ -1,0 +1,55 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>8009f16a-0231-4ce5-9837-b7f485b956c3</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Music_Recommendation_System.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Music Recommendation System</Name>
+    <RootNamespace>Music Recommendation System</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
+    <InterpreterId>Global|PythonCore|2.7</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="datasets\lastfm-dataset-360K\mbox_sha1sum.py" />
+    <Compile Include="Music_Recommendation_System.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="datasets\" />
+    <Folder Include="datasets\lastfm-dataset-1K\" />
+    <Folder Include="datasets\lastfm-dataset-360K\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="datasets\lastfm-dataset-1K\README.txt" />
+    <Content Include="datasets\lastfm-dataset-1K\userid-profile.tsv" />
+    <Content Include="datasets\lastfm-dataset-1K\userid-timestamp-artid-artname-traid-traname.tsv" />
+    <Content Include="datasets\lastfm-dataset-360K\README.txt" />
+    <Content Include="datasets\lastfm-dataset-360K\usersha1-artmbid-artname-plays.tsv" />
+    <Content Include="datasets\lastfm-dataset-360K\usersha1-profile.tsv" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|2.7" />
+    <InterpreterReference Include="Global|PythonCore|3.6" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
