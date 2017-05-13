@@ -16,18 +16,20 @@ scrollbar.pack(side="right", fill="y")
 listbox.config(yscrollcommand=scrollbar.set)
 
 for item in ["zero","one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"]:
-    listbox.insert(END, item)
+    listbox.insert(END,item)
 
 var = StringVar()
 label = Message( master, textvariable=var )
 
 def recommend():
 	
-	sel = listbox.curselection()	
-	var.set(str(sel)+ "is selected")
+	sel = listbox.curselection()[0]	
+	var.set(str(sel))
 		
 b = Button(master, text="Recommend", command=recommend)
 b.pack()
 label.pack()
 
 mainloop()
+
+
