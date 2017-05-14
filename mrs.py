@@ -80,7 +80,8 @@ usa_data.head()
 from Tkinter import *
 
 master = Tk()
-master.attributes('-zoomed', True)
+# master.attributes('-zoomed', True)
+master.attributes('-fullscreen', True)
 
 frame = Frame(master)
 frame.pack()

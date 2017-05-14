@@ -2,7 +2,8 @@ from Tkinter import *
 
 class gui:
 	master = Tk()
-	master.attributes('-zoomed', True)
+#	master.attributes('-zoomed', True)
+	master.attributes('-fullscreen', True)
 	master.title("Music Recommendation System")
 
 	label = Label(master, text="Music Recommendation System", font=7, pady=20)
@@ -22,4 +23,3 @@ class gui:
 	scrollbar.pack(side="right", fill="y")
 
 	listbox.config(yscrollcommand=scrollbar.set)
-

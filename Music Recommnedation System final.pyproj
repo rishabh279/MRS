@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{b6c148d7-90c0-4433-aa1b-aeae867541e0}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>KNN.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId>Global|ContinuumAnalytics|Anaconda27-64</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Country.py" />
+    <Compile Include="datasets\lastfm-dataset-360K\mbox_sha1sum.py" />
+    <Compile Include="extras\1.py" />
+    <Compile Include="extras\mrs.py" />
+    <Compile Include="extras\Music_Recommendation_System.py" />
+    <Compile Include="gui.py" />
+    <Compile Include="gui\home.py" />
+    <Compile Include="KNN.py" />
+    <Compile Include="mrs.py" />
+    <Compile Include="plotHeatMap.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Popular_Artist.py" />
+    <Compile Include="Threshold.py" />
+    <Compile Include="User_Data.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="datasets\lastfm-dataset-1K\README.txt" />
+    <Content Include="datasets\lastfm-dataset-360K\README.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="datasets\" />
+    <Folder Include="datasets\lastfm-dataset-1K" />
+    <Folder Include="datasets\lastfm-dataset-360K" />
+    <Folder Include="extras" />
+    <Folder Include="gui" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda27-64" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

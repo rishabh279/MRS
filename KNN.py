@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.neighbors import NearestNeighbors
 from gui import gui as g
 from Tkinter import *
+import plotHeatMap
 
 # Randomly select artist
 #query_index = np.random.choice(co.sparse_singer_data.shape[0])
@@ -44,10 +45,21 @@ def clickButton():
 		#var.set(str(sel))
 		recommend('brute','cosine',co.sparse_singer_data_compress,sel)
 		#recommend('kd_tree','euclidean',wide_artist_data,sel)
-		
+
+
+def showHeatMap():
+
+    mPlotHeatMap = plotHeatMap.plotHeatMap(co.sparse_singer_data);
+    mPlotHeatMap.show()
+
+
+RecommendationButton = Button(g.master, text="Show User Data HeatMap", command=showHeatMap)
+RecommendationButton.pack()
+
 b = Button(g.master, text="Recommend", command=clickButton)
 b.pack()
 label.pack()
 frame2.pack()
 mainloop()
+
 print '\n'
