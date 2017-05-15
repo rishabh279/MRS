@@ -1,0 +1,31 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Objective}{4}
+\contentsline {section}{\numberline {3}Prerequisite}{4}
+\contentsline {section}{\numberline {4}Literature Review}{5}
+\contentsline {section}{\numberline {5}Research Methodologies}{6}
+\contentsline {subsection}{\numberline {5.1}Naive Bayes}{6}
+\contentsline {subsection}{\numberline {5.2}Support Vector Machine}{7}
+\contentsline {subsection}{\numberline {5.3}K-nearest neighbours}{9}
+\contentsline {section}{\numberline {6}Approaches}{10}
+\contentsline {subsection}{\numberline {6.1}Collaborative filtering}{10}
+\contentsline {subsection}{\numberline {6.2}Content-based filtering}{10}
+\contentsline {subsection}{\numberline {6.3}Hybrid recommender systems}{11}
+\contentsline {section}{\numberline {7}Process Model}{12}
+\contentsline {section}{\numberline {8}Pseudo Code}{13}
+\contentsline {section}{\numberline {9}Datasets Used}{13}
+\contentsline {section}{\numberline {10}Libraries Used}{13}
+\contentsline {subsection}{\numberline {10.1}Numpy}{13}
+\contentsline {subsection}{\numberline {10.2}Pandas}{14}
+\contentsline {subsection}{\numberline {10.3}scikit-learn}{15}
+\contentsline {section}{\numberline {11}Result}{15}
+\contentsline {section}{\numberline {12}Conclusion}{18}
+\contentsline {section}{\numberline {13}References}{18}
+\contentsline {section}{\numberline {14}Appendix(Code)}{18}
+\contentsline {subsection}{\numberline {14.1}UserData.py}{18}
+\contentsline {subsection}{\numberline {14.2}PopularArtist.py}{19}
+\contentsline {subsection}{\numberline {14.3}Threshold.py}{19}
+\contentsline {subsection}{\numberline {14.4}Country.py}{19}
+\contentsline {subsection}{\numberline {14.5}gui.py}{20}
+\contentsline {subsection}{\numberline {14.6}KNN.py}{20}
+\contentsline {subsection}{\numberline {14.7}PlotHeatMap.py}{21}

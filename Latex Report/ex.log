@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.3.9)  15 MAY 2017 04:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.3.9)  15 MAY 2017 19:55
 entering extended mode
 **./ex.tex
 (ex.tex
@@ -47,12 +47,12 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 134.
-Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
 ine 2059.
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrs
-ize11pt.clo"
-File: scrsize11pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (11pt
+ize12pt.clo"
+File: scrsize12pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (12pt
 )
 )
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\type
@@ -65,21 +65,21 @@ Package: typearea 2017/04/13 v3.23 KOMA-Script package (type area)
 \ta@temp=\skip45
 \footheight=\skip46
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 10
+(typearea)             DIV  = 12
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 418.25555pt
+(typearea)              \textwidth      = 448.13095pt
 (typearea)              DIV departure   = -6%
-(typearea)              \evensidemargin = 17.3562pt
-(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 595.80026pt
-(typearea)              \topmargin      = -25.16531pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 20.40001pt
-(typearea)              \topskip        = 11.0pt
-(typearea)              \footskip       = 47.6pt
-(typearea)              \baselineskip   = 13.6pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
 (typearea)              on input line 1647.
 )
 \c@part=\count80
@@ -304,6 +304,34 @@ LaTeX Font Info:    Redeclaring math accent \dot on input line 255.
 LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
 \symUfutm=\mathgroup5
 )
+("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listing
+s.sty"
+\lst@mode=\count88
+\lst@gtempboxa=\box28
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen103
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen106
+
+("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc
+.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box29
+)
+("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listing
+s.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
 y"
 Package: babel 2016/04/23 3.9r The Babel package
@@ -324,8 +352,8 @@ Language: english 2017/01/24 v3.3q English support from the babel system
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.de
 f"
 File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count88
-\U@D=\dimen103
+\babel@savecnt=\count96
+\U@D=\dimen107
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
@@ -334,12 +362,12 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microt
 ype.sty"
 Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
-\MT@toks=\toks15
-\MT@count=\count89
+\MT@toks=\toks16
+\MT@count=\count97
 LaTeX Info: Redefining \textls on input line 774.
-\MT@outer@kern=\dimen104
+\MT@outer@kern=\dimen108
 LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
-\MT@listname@count=\count90
+\MT@listname@count=\count98
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microt
 ype-pdftex.def"
@@ -369,53 +397,53 @@ Package: amstext 2000/06/29 v2.01 AMS text
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.s
 ty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
-\ex@=\dimen105
+\@emptytoks=\toks17
+\ex@=\dimen109
 ))
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.s
 ty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen106
+\pmbraise@=\dimen110
 )
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.s
 ty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count91
+\inf@bad=\count99
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count92
-\leftroot@=\count93
+\uproot@=\count100
+\leftroot@=\count101
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count94
-\DOTSCASE@=\count95
+\classnum@=\count102
+\DOTSCASE@=\count103
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box28
-\strutbox@=\box29
-\big@size=\dimen107
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen111
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count96
-\c@MaxMatrixCols=\count97
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
 \dotsspace@=\muskip10
-\c@parentequation=\count98
-\dspbrk@lvl=\count99
-\tag@help=\toks17
-\row@=\count100
-\column@=\count101
-\maxfields@=\count102
-\andhelp@=\toks18
-\eqnshift@=\dimen108
-\alignsep@=\dimen109
-\tagshift@=\dimen110
-\tagwidth@=\dimen111
-\totwidth@=\dimen112
-\lineht@=\dimen113
-\@envbody=\toks19
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks18
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks19
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks20
 \multlinegap=\skip57
 \multlinetaggap=\skip58
-\mathdisplay@stack=\toks20
+\mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
@@ -431,15 +459,15 @@ LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.st
 y"
 Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks21
-\thm@bodyfont=\toks22
-\thm@headfont=\toks23
-\thm@notefont=\toks24
-\thm@headpunct=\toks25
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
 \thm@preskip=\skip59
 \thm@postskip=\skip60
 \thm@headsep=\skip61
-\dth@everypar=\toks26
+\dth@everypar=\toks27
 )
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
 x.sty"
@@ -471,10 +499,10 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 ds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count103
+\Gread@gobject=\count111
 ))
-\Gin@req@height=\dimen114
-\Gin@req@width=\dimen115
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
 )
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
@@ -482,11 +510,11 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count104
-\float@exts=\toks27
-\float@box=\box30
-\@float@everytoks=\toks28
-\@floatcapt=\box31
+\c@float@type=\count112
+\float@exts=\toks28
+\float@box=\box32
+\@float@everytoks=\toks29
+\@floatcapt=\box33
 )
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty\sectsty.
 sty"
@@ -499,7 +527,7 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              I'd suggest to use 
 (scrartcl)              package `scrlayer-scrpage'.
 (scrartcl)              Nevertheless, using requested
-(scrartcl)              package `fancyhdr' on input line 49.
+(scrartcl)              package `fancyhdr' on input line 48.
 
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhd
@@ -514,63 +542,94 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@erf=\skip68
 \f@ncyO@olf=\skip69
 \f@ncyO@orf=\skip70
+) (ex.aux
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
 )
-No file ex.aux.
 \openout1 = `ex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 79.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 77.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 77.
 
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fmlfutm.
 fd"
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 79.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 79.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 77.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 77.
 
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fmsfutm.
 fd"
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 79.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 79.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 77.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 77.
 
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fmxfutm.
 fd"
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 79.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 77.
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 79.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 77.
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\t1futs.f
 d"
 File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 )
-LaTeX Info: Redefining \microtypecontext on input line 79.
+\c@lstlisting=\count113
+LaTeX Info: Redefining \microtypecontext on input line 77.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -588,17 +647,17 @@ Package microtype Info: Loading generic settings for font family
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
 mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
-\scratchdimen=\dimen116
-\scratchbox=\box32
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count108
-\MPscratchDim=\dimen117
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count114
+\scratchdimen=\dimen120
+\scratchbox=\box34
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen121
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks31
 )
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfte
 xcmds.sty"
@@ -654,8 +713,15 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 81.
 
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 80.
+
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 80.
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -663,36 +729,29 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+bch on input line 81.
-("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1bch.fd
-"
-File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
-)
-("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-bch
-.cfg"
-File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
-
-)
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 81
+Package tocbasic Info: character protrusion at toc deactivated on input line 80
 .
+(ex.toc
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 7.
+
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\fmlfutmi
 .fd"
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 81.
+(Font)              scaled to size 11.03998pt on input line 7.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 81.
+(Font)              scaled to size 8.27998pt on input line 7.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 81.
+(Font)              scaled to size 6.43999pt on input line 7.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 81.
+(Font)              scaled to size 11.03998pt on input line 7.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 81.
+(Font)              scaled to size 8.27998pt on input line 7.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 81.
-LaTeX Font Info:    Try loading font information for U+msa on input line 81.
+(Font)              scaled to size 6.43999pt on input line 7.
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
 "
@@ -702,7 +761,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 .cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 81.
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
 "
@@ -711,22 +770,46 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-msb
 .cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
+))
+\tf@toc=\write3
+\openout3 = `ex.toc'.
 
-LaTeX Warning: No \author given.
-
-<ml1.jpg, id=1, 1204.5pt x 668.4975pt>
-File: ml1.jpg Graphic file (type jpg)
- <use ml1.jpg>
-Package pdftex.def Info: ml1.jpg used on input line 86.
-(pdftex.def)             Requested size: 240.89574pt x 133.69713pt.
  [1
 
+{C:/Users/rishabh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 84.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 84.
 
-{C:/Users/rishabh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./ml1.jpg
->]
-LaTeX Font Info:    Try loading font information for TS1+futs on input line 93.
+Underfull \hbox (badness 10000) in paragraph at lines 84--92
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--92
+
+ []
+
+[2]
+Overfull \hbox (27.77403pt too wide) in paragraph at lines 95--108
+\T1/futs/m/n/12 (-20) through col-lab-o-ra-tive and content-based fil-ter-ing o
+r the personality-based ap-proach.Collaborative
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--108
+
+ []
+
+[3]
+LaTeX Font Info:    Try loading font information for TS1+futs on input line 112
+.
 
 ("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fourier\ts1futs.
 fd"
@@ -736,36 +819,353 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `futs' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [2] [3] [4] [5] <process_model.jpg, id=20, 210.7875pt x 2175.12625pt>
+ <ml2.jpg, id=15, 640.3925pt x 480.79625pt>
+File: ml2.jpg Graphic file (type jpg)
+ <use ml2.jpg>
+Package pdftex.def Info: ml2.jpg used on input line 123.
+(pdftex.def)             Requested size: 256.15245pt x 192.31508pt.
+ [4 <./ml2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 141--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--165
+
+ []
+
+
+Overfull \hbox (0.44838pt too wide) in paragraph at lines 141--165
+\T1/futs/b/n/12 Paper 3: Im-proved sup-port vec-tor ma-chine al-go-rithm for he
+t-ero-ge-neous data (Shili Peng,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--165
+
+ []
+
+[5] <Bayes_rule.png, id=22, 462.72874pt x 264.99pt>
+File: Bayes_rule.png Graphic file (type png)
+ <use Bayes_rule.png>
+Package pdftex.def Info: Bayes_rule.png used on input line 177.
+(pdftex.def)             Requested size: 185.08821pt x 105.99411pt.
+
+[6 <./Bayes_rule.png>] <nb_scatterplot.png, id=27, 361.35pt x 271.0125pt>
+File: nb_scatterplot.png Graphic file (type png)
+
+<use nb_scatterplot.png>
+Package pdftex.def Info: nb_scatterplot.png used on input line 195.
+(pdftex.def)             Requested size: 216.81168pt x 162.60875pt.
+ <svm.png, id=29, 778.107pt x 351.714pt>
+File: svm.png Graphic file (type png)
+ <use svm.png>
+Package pdftex.def Info: svm.png used on input line 213.
+(pdftex.def)             Requested size: 466.8678pt x 211.03003pt.
+
+Overfull \hbox (18.73685pt too wide) in paragraph at lines 213--214
+ [] 
+ []
+
+[7 <./nb_scatterplot.png>] [8 <./svm.png>]
+<knn.png, id=39, 280.04625pt x 252.945pt>
+File: knn.png Graphic file (type png)
+ <use knn.png>
+Package pdftex.def Info: knn.png used on input line 246.
+(pdftex.def)             Requested size: 168.02904pt x 151.76816pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--253
+
+ []
+
+[9 <./knn.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 259--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--288
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 290--294
+
+ []
+
+[11] <process_model.jpg, id=50, 597.23125pt x 813.0375pt>
 File: process_model.jpg Graphic file (type jpg)
 
 <use process_model.jpg>
-Package pdftex.def Info: process_model.jpg used on input line 214.
-(pdftex.def)             Requested size: 63.23672pt x 652.54292pt.
- [6]
-Overfull \vbox (129.59767pt too high) has occurred while \output is active []
+Package pdftex.def Info: process_model.jpg used on input line 303.
+(pdftex.def)             Requested size: 418.05902pt x 569.12238pt.
+
+Overfull \vbox (10.83562pt too high) has occurred while \output is active []
 
 
-[7 <./process_model.jpg>] [8] (ex.aux)
+[12 <./process_model.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 317--345
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--352
+
+ []
+
+<user_data.jpg, id=54, 588.69937pt x 165.61874pt>
+File: user_data.jpg Graphic file (type jpg)
+ <use user_data.jpg>
+Package pdftex.def Info: user_data.jpg used on input line 356.
+(pdftex.def)             Requested size: 412.08675pt x 115.93231pt.
+
+<user_profile.jpg, id=55, 591.71063pt x 166.37157pt>
+File: user_profile.jpg Graphic file (type jpg)
+ <use user_profile.jpg>
+Package pdftex.def Info: user_profile.jpg used on input line 365.
+(pdftex.def)             Requested size: 414.19461pt x 116.45929pt.
+
+[13]
+Overfull \hbox (6.94865pt too wide) in paragraph at lines 381--382
+[]\T1/futs/m/n/12 (-20) Besides its ob-vi-ous sci-en-tific uses, NumPy can also
+ be used as an ef-fi-cient multi-dimensional
+ []
+
+[14 <./user_data.jpg> <./user_profile.jpg>]
+<result1.png, id=63, 737.00343pt x 385.44pt>
+File: result1.png Graphic file (type png)
+ <use result1.png>
+Package pdftex.def Info: result1.png used on input line 407.
+(pdftex.def)             Requested size: 442.20547pt x 231.26578pt.
+
+<gui.png, id=64, 1028.34187pt x 578.16pt>
+File: gui.png Graphic file (type png)
+ <use gui.png>
+Package pdftex.def Info: gui.png used on input line 420.
+(pdftex.def)             Requested size: 411.32947pt x 231.2599pt.
+ [15 <./result1.png>]
+<recommendations.png, id=68, 279.29344pt x 167.87718pt>
+File: recommendations.png Graphic file (type png)
+
+<use recommendations.png>
+Package pdftex.def Info: recommendations.png used on input line 433.
+(pdftex.def)             Requested size: 223.43504pt x 134.30193pt.
+ <graph.png, id=69, 1028.34187pt x 555.57562pt>
+File: graph.png Graphic file (type png)
+
+<use graph.png>
+Package pdftex.def Info: graph.png used on input line 446.
+(pdftex.def)             Requested size: 514.16968pt x 277.78712pt.
+
+Overfull \hbox (66.03873pt too wide) in paragraph at lines 446--447
+ [] 
+ []
+
+[16 <./gui.png> <./recommendations.png>] [17 <./graph.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 459--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--479
+
+ []
+
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 497.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 497.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 497.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 497.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 497.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 497.
+[18]
+Overfull \hbox (139.00916pt too wide) in paragraph at lines 535--537
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] 
+ []
+
+
+Overfull \hbox (67.20065pt too wide) in paragraph at lines 555--556
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (88.3208pt too wide) in paragraph at lines 570--571
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+[19]
+Overfull \hbox (29.18439pt too wide) in paragraph at lines 585--586
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (109.44095pt too wide) in paragraph at lines 644--646
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (193.92154pt too wide) in paragraph at lines 653--654
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+[20]
+Overfull \hbox (215.04169pt too wide) in paragraph at lines 656--657
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+
+("C:\Users\rishabh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang
+1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <8> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 698.
+
+Overfull \hbox (113.66498pt too wide) in paragraph at lines 709--710
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.06424pt too wide) in paragraph at lines 716--717
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[21] [22] (ex.aux)
+
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7713 strings out of 493333
- 126989 string characters out of 3129276
- 298186 words of memory out of 3000000
- 10896 multiletter control sequences out of 15000+200000
- 77350 words of font info for 195 fonts, out of 3000000 for 9000
+ 9155 strings out of 493333
+ 147632 string characters out of 3129276
+ 372880 words of memory out of 3000000
+ 12329 multiletter control sequences out of 15000+200000
+ 94645 words of font info for 215 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,10n,51p,8839b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,11n,51p,8839b,1703s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/rishabh/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
-nc}<C:/Users/rishabh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/cha
-rter/bchb8a.pfb><C:/Users/rishabh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/adobe/utopia/putr8a.pfb>
-Output written on ex.pdf (8 pages, 435330 bytes).
+nc} <C:\Users\rishabh\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
+00\ecsx1440.pk> <C:\Users\rishabh\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\ecsx1200.pk> <C:\Users\rishabh\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\jknappen\ec\dpi600\ecsx1728.pk><C:/Users/rishabh/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/fourier/fourier-ms.pfb><C:/Users/rishabh/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Users/rishab
+h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/utopia/putr8a.pfb><C:/Use
+rs/rishabh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.p
+fb>
+Output written on ex.pdf (22 pages, 540689 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 250 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 35851 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 20541 words of extra memory for PDF output out of 20736 (max. 10000000)
 
