@@ -23,7 +23,7 @@ user_profiles = pd.read_table('datasets/lastfm-dataset-360K/usersha1-profile.tsv
                           names = ['users', 'gender', 'age', 'country', 'signup'],
                           usecols = ['users', 'country'])
 print 'sample rows of user profiles'
-print user_data
+print user_profiles
 
 # Remove Empty Artist Tuples
 
